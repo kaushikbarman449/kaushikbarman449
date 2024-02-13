@@ -17,8 +17,9 @@
 </div>
 
 <div>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kaushik-barman-3a884223b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushik-barman-3a884223b" height="30" width="40" /></a>
+<h3 align="left">🔗 Connect with me:</h3>
+<ul>
+  <li><a href="https://www.linkedin.com/in/kaushik-barman-3a884223b/">LinkedIn</a></li>
+</ul>
 </p>
 </div>
