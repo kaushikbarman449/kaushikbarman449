@@ -7,6 +7,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushikbarman449&show_icons=true&locale=en&layout=compact" alt="kaushikbarman449" /></p>
 </div>
 
+<br />
+
 <div>
 <h3 align="left">🛠️ Skills</h3>
   <p>
