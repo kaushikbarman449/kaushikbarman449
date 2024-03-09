@@ -16,7 +16,7 @@
 <div>
 <h3 align="left">🔗 Connect with me:</h3>
 <ul>
-  <li><a href="https://www.linkedin.com/in/kaushik-barman-3a884223b/">LinkedIn</a></li>
+  <li><a href="https://www.linkedin.com/in/kaushik-barman-3a884223b/" target="_blank">LinkedIn</a></li>
 </ul>
 </p>
 </div>
