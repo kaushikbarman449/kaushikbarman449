@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kaushik Barman</h1>
 <h3 align="center">💻 Software Engineer with 2+ years of experience in backend, cloud, and full-stack development.</h3>
 
+- 🎯 Future Goal: **Transitioning into Data Engineering — designing and optimizing large-scale data pipelines and cloud-based systems.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in//kaushik-barman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/kaushik-barman/" height="30" width="40" /></a>
