@@ -1,5 +1,5 @@
 <h1 align="left">Greetings 👋, I'm Kaushik Barman</h1>
-<h3 align="left">IT graduate. Hands on with the MERN stack.</h3>
+<h3 align="left">IT graduate.</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushikbarman449&show_icons=true&locale=en" alt="kaushikbarman449" /></p>
 
 <div>
