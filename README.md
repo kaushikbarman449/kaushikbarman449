@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaushik Barman</h1>
-<h3 align="center">💻 Software Engineer with 2+ years of experience in backend, cloud, and full-stack development.</h3>
-
-- 🎯 **Future Goal:** Transitioning into Data Engineering — designing and optimizing large-scale data pipelines and cloud-based systems.
-
----
+<h3 align="left">💻 Software Engineer with 2+ years of experience in backend, cloud, and full-stack development.</h3>
 
 ### **Connect with me:**
 <p align="center">
@@ -27,11 +23,3 @@
 | **Other Tools**  | Firebase                                                                                         |
 
 ---
-
-### **GitHub Stats:**
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushikbarman449&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushikbarman449" alt="GitHub Streak" />
-</p>
